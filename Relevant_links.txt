@@ -1,1 +1,3 @@
-Git tutorial - https://www.youtube.com/watch?v=0fKg7e37bQE
+Git in 20 minutes - https://www.youtube.com/watch?v=0fKg7e37bQE
+
+Gherkin in 5 minutes https://www.youtube.com/watch?v=KP0vpVLatMc
